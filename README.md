@@ -1,1 +1,2 @@
-# reactjs_calver
+# To Run
+yarn start
